@@ -8,8 +8,7 @@
 		<version>3.3.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-<<<<<<<<<student-management
-<!--- test pull request --->
+
 
 	<groupId>tn.m104.rh</groupId>
 	<artifactId>school</artifactId>
@@ -45,7 +44,7 @@
 		</dependency>
 
 		<dependency>
-			echo "bonjour"
+		
 		</dependency>
 
 	</dependencies>
